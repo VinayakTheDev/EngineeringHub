@@ -1,4 +1,5 @@
-![[Java/res/Pasted image 20251009191450.png]]
+<img width="1235" height="434" alt="Pasted image 20251009191450" src="https://github.com/user-attachments/assets/717a3675-f54c-4909-b476-f7ec6221a7d4" />
+
 
 ## Program (recipe):
 - A program is a set of instructions and associated data that is static and is stored on the disk.
@@ -18,7 +19,7 @@ Caveats:
 - Requires hardware support where one system comes with multiple cores or execution takes place in cluster of machines.
 - Process dont share resources among themselves but threads share resources allocated including mem address space.
 
-<img src="Pasted image 20251009194001.png" alt="drawing" width="600"/>
+<img width="865" height="634" alt="Pasted image 20251009194001" src="https://github.com/user-attachments/assets/f2df3f7e-1e77-4a4b-8997-2851c125a519" />
 
 ## Concurrency Vs Parallelism
 
@@ -100,7 +101,8 @@ Ability of the program to complete the execution in timely manner is called Live
 - When a thread first acquires the lock, the hold count is set to 1, then it is incremented on re-acquisition by the same thread.
 - The lock is fully released when the hold count returns to zero, `unlock()` must correspond to every `lock()`
 
-![[res/Pasted image 20251010131001.png]]
+<img width="771" height="381" alt="Pasted image 20251009200104" src="https://github.com/user-attachments/assets/114b15fd-f8ab-461d-bf67-7177550aae2d" />
+
 
 
 ### Mutex vs Semaphores
