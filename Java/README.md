@@ -1,7 +1,20 @@
 
 ## JVM Architecture and Components
 
-**Class Loader Subsystem** - Understanding bootstrap, extension, and application class loaders, class loading phases (loading, linking, initialization), delegation model, and custom class loaders.
+**Class Loader Subsystem** -
+  - Understanding types of class loaders
+    1. bootstrap
+    2. extension
+    3. application
+       
+  - Understanding class loading phases
+    1. loading
+    2. linking
+    3. initialization
+  
+  - Understanding delegation model
+    
+  - Understanding custom class loaders.
 
 **Runtime Data Areas** - Stack memory (method frames, local variables, operand stacks), heap memory (young generation, old generation), method area/metaspace, program counter registers, and native method stacks.[](https://www.geeksforgeeks.org/java/how-jvm-works-jvm-architecture/)​
 
