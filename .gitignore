@@ -1,0 +1,15 @@
+# Obsidian workspace files and caches
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/.cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Trash directory
+.trash/
+
+# Optional: exclude all Obsidian settings (including plugins, themes, hotkeys)
+# Uncomment the following line if you do NOT want to sync any Obsidian settings
+# .obsidian/
