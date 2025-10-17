@@ -1,4 +1,4 @@
-![[Pasted image 20251009191450.png]]
+![[res/Pasted image 20251009191450.png]]
 
 ## Program (recipe):
 - A program is a set of instructions and associated data that is static and is stored on the disk.
@@ -22,7 +22,7 @@ Caveats:
 
 ## Concurrency Vs Parallelism
 
-![[Pasted image 20251009200430.png]]
+![[res/Pasted image 20251009200430.png]]
 
 ==concurrency is a single chef rapidly switching between taking orders, preparing dough, and baking pizzas to serve multiple customers, while parallelism is multiple chefs each working on separate pizzas at the exact same time to fulfill orders faster==.
 
@@ -100,7 +100,7 @@ Ability of the program to complete the execution in timely manner is called Live
 - When a thread first acquires the lock, the hold count is set to 1, then it is incremented on re-acquisition by the same thread.
 - The lock is fully released when the hold count returns to zero, `unlock()` must correspond to every `lock()`
 
-![[Pasted image 20251010131001.png]]
+![[res/Pasted image 20251010131001.png]]
 
 
 ### Mutex vs Semaphores
