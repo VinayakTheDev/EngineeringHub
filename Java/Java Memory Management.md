@@ -1,4 +1,4 @@
-![[Java.png]]
+<img width="696" height="343" alt="Java" src="https://github.com/user-attachments/assets/5344cd68-6e0d-4bfa-bb7d-1e587a505b9f" />
 
 - Process by which JVM automatically handles allocation and deallocation of memory.
 - JVM uses [[Garbage Collection (GC)]] to remove unused objects.
