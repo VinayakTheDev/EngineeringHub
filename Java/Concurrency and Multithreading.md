@@ -1,4 +1,4 @@
-![[res/Pasted image 20251009191450.png]]
+![[Java/res/Pasted image 20251009191450.png]]
 
 ## Program (recipe):
 - A program is a set of instructions and associated data that is static and is stored on the disk.
