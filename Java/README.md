@@ -1,16 +1,7 @@
-[[Java Memory Management]]
-[[Concurrency and Multithreading]]
-
-
-
-
-
-
-
 
 ## JVM Architecture and Components
 
-**Class Loader Subsystem** - Understanding bootstrap, extension, and application class loaders, class loading phases (loading, linking, initialization), delegation model, and custom class loaders.[](https://www.geeksforgeeks.org/java/java/)​
+**Class Loader Subsystem** - Understanding bootstrap, extension, and application class loaders, class loading phases (loading, linking, initialization), delegation model, and custom class loaders.
 
 **Runtime Data Areas** - Stack memory (method frames, local variables, operand stacks), heap memory (young generation, old generation), method area/metaspace, program counter registers, and native method stacks.[](https://www.geeksforgeeks.org/java/how-jvm-works-jvm-architecture/)​
 
@@ -18,7 +9,7 @@
 
 **Java Native Interface (JNI)** - Native method invocation, native libraries integration, and performance considerations.[](https://www.alooba.com/skills/concepts/jvm-internals-162/)​
 
-## Memory Management
+## [Memory Management](https://github.com/VinayakTheDev/EngineeringHub/blob/main/Java/Java%20Memory%20Management.md)
 
 **Heap Memory Structure** - Eden space, Survivor spaces (S0/S1), Old/Tenured generation, memory allocation strategies, and object lifecycle.[](https://middleware.io/blog/java-garbage-collection/)​
 
